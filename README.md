@@ -1,7 +1,7 @@
 # Hi there, I'm [Ismingiz] .. 🌙
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20silence." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokait&quote=Code%20is%20poetry%20written%20in%20silence." />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### 📊 Stealth Mode Stats
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelisei-krupin&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
