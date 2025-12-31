@@ -14,7 +14,7 @@
 <table align="center" border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelisei-krupin&theme=tokyonight&hide_border=true" alt="Streak" />
     </td>
     <td width="50%" align="center">
       <img src="https://skillicons.dev/icons?i=c,cpp,assembly,linux,git,bash,vim&theme=dark" />
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yelise-krupin&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
     <td width="50%" align="center">
        <br>
