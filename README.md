@@ -28,6 +28,7 @@ ESP: 0x7FFF0000
       </pre>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px;">
       <br>
@@ -40,21 +41,25 @@ ESP: 0x7FFF0000
       <br>
       🎧 <b>Mode:</b> Deep Silence<br>
       🛠 <b>Tools:</b> gcc, nasm, gdb<br>
-      📍 <b>Origin:</b> Uzbekistan<br>
-      🔋 <b>Uptime:</b> 100%
+      📍 <b>Origin:</b> Uzbekistan
       <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px;">
+       <code><b>UPTIME:</b> 21 years</code><br>
+       <code><b>LOAD:</b> 0.05, 0.01, 0.00</code>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px;">
+      <b>Visitors Log:</b><br>
+      <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=access_log&color=000000&style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📉 System Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-</p>
-
 <p align="right">
-  <code>segfault_protection: ENABLED</code> | 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=access_log&color=000000&style=flat-square" />
+  <code>segfault_protection: ENABLED</code> | <code>ring_0_access: GRANTED</code>
 </p>
