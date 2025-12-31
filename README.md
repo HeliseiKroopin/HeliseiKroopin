@@ -10,15 +10,16 @@
   <a href="#skills">stack_trace</a>
 </p>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="50%" bgcolor="#0d1117" align="center">
-      <br>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=c,cpp,assembly,linux,git,bash,vim&theme=dark" width="220px" />
-      <br><code>KERNEL_SPACE_ONLY</code>
+      <br><br>
+      <code><b>KERNEL_SPACE_ONLY</b></code>
     </td>
-    <td width="50%" bgcolor="#161b22">
+    <td width="50%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px;">
       <pre align="center">
+<b>CPU STATE:</b>
 EAX: 0x00000001
 EBX: 0xDEADBEEF
 ECX: 0x00000000
@@ -28,29 +29,32 @@ ESP: 0x7FFF0000
     </td>
   </tr>
   <tr>
-    <td width="50%" bgcolor="#161b22" align="center">
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px;">
       <br>
-      <b>Achievements Unlocked:</b><br>
-      🏆 Pull Shark | 🧠 Galaxy Brain<br>
-      🚀 Quickdraw | 🏹 YOLO
+      <b>Achievements Unlocked</b><br><br>
+      🏆 <code>Pull Shark</code> | 🧠 <code>Galaxy Brain</code><br>
+      🚀 <code>Quickdraw</code> | 🏹 <code>YOLO</code>
+      <br><br>
     </td>
-    <td width="50%" bgcolor="#0d1117" align="center">
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px;">
       <br>
       🎧 <b>Mode:</b> Deep Silence<br>
       🛠 <b>Tools:</b> gcc, nasm, gdb<br>
-      📍 <b>Origin:</b> Uzbekistan
+      📍 <b>Origin:</b> Uzbekistan<br>
+      🔋 <b>Uptime:</b> 100%
+      <br><br>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📉 Local Activity (Static Mode)
+### 📉 System Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
 <p align="right">
-  <code>system_uptime: 21y</code> | 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=hits&color=000000&style=flat-square" />
+  <code>segfault_protection: ENABLED</code> | 
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=access_log&color=000000&style=flat-square" />
 </p>
