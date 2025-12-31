@@ -1,6 +1,5 @@
 # 0x00 | [Yelisei] 👋
-### Gimme gcc and a change the world!
-### Systems & Low-Level Developer
+### Gimme gcc and I will change the world!
 
 ---
 
